@@ -3,13 +3,34 @@
 ## string
 
 ## operators
+### --arithmetic operators
+### --assignment operators
+### --comparison operators
+### --logical operators
+### --identity operators
+### --membership operators
+### --bitwise operators
 
-## loops and control statement
+### operators calculate
 
-### for loops
-### while loops
+## loops 
+### --for loops
+### --while loops
+
+## control statement
+### --break
+### --continue
+### --pass
+
+## condition
+### --if
+### --elif
+### --else
+
 
 ## collections
-### list
-### tuple
-### dictonary
+### --list
+### --tuple
+### --dictonary
+
+## functions
