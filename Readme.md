@@ -2,6 +2,9 @@
 
 ## string
 
+### --slicing
+### --find length string
+
 ## operators
 ### --arithmetic operators
 ### --assignment operators
@@ -31,6 +34,7 @@
 ## collections
 ### --list
 ### --tuple
+### --set
 ### --dictonary
 
 ## functions
