@@ -16,6 +16,12 @@
 
 ### operators calculate
 
+## collections
+### --list
+### --tuple
+### --set
+### --dictonary
+
 ## loops 
 ### --for loops
 ### --while loops
@@ -30,11 +36,9 @@
 ### --elif
 ### --else
 
-
-## collections
-### --list
-### --tuple
-### --set
-### --dictonary
-
 ## functions
+
+## anonymous functions
+### --lambda
+### --filter
+### --reduce
